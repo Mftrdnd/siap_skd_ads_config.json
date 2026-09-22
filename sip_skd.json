@@ -3,7 +3,7 @@
 
   "ads_enabled": false,
 
-  "banner_enabled": flase,
+  "banner_enabled": false,
   "banner_ad_unit_id": "ca-app-pub-XXXXXXXXXXXXXXXX/BANNER_ID",
 
   "interstitial_enabled": false,
