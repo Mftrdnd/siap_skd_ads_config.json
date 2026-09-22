@@ -1,9 +1,9 @@
 {
   "version": 1,
 
-  "ads_enabled": true,
+  "ads_enabled": false,
 
-  "banner_enabled": true,
+  "banner_enabled": flase,
   "banner_ad_unit_id": "ca-app-pub-XXXXXXXXXXXXXXXX/BANNER_ID",
 
   "interstitial_enabled": false,
