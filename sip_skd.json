@@ -1,9 +1,9 @@
 {
   "version": 1,
 
-  "ads_enabled": false,
+  "ads_enabled": true,
 
-  "banner_enabled": false,
+  "banner_enabled": true,
   "banner_ad_unit_id": "ca-app-pub-XXXXXXXXXXXXXXXX/BANNER_ID",
 
   "interstitial_enabled": false,
@@ -14,6 +14,6 @@
   "app_open_ad_unit_id": "ca-app-pub-XXXXXXXXXXXXXXXX/APP_OPEN_ID",
   "app_open_cooldown_minutes": 30,
 
-  "rewarded_enabled": false,
+  "rewarded_enabled": true,
   "rewarded_ad_unit_id": "ca-app-pub-XXXXXXXXXXXXXXXX/REWARDED_ID"
 }
